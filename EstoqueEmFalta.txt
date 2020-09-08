@@ -1,0 +1,10 @@
+-> Estoque em Falta:
+--------------------------------------------------------------------
+Quantidade: 5 	Produto: Cafe
+Quantidade: 4 	Produto: Farinha Pequena
+Quantidade: 5 	Produto: Fosforo
+Quantidade: 3 	Produto: Nissin Lamen
+Quantidade: 3 	Produto: Oleo Grande
+Quantidade: 5 	Produto: Sabao Ala
+Quantidade: 4 	Produto: Sabonete(palmolive)
+--------------------------------------------------------------------
